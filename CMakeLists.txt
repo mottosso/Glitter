@@ -42,7 +42,7 @@ file(GLOB PROJECT_ASSETS  myglitter/assets/*.comp
                           myglitter/assets/*.bmp
                           myglitter/assets/*.png)
 file(GLOB PROJECT_CONFIGS CMakeLists.txt
-                          Readme.md
+                          README.md
                          .gitattributes
                          .gitignore
                          .gitmodules)
